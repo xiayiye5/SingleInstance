@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SingleInstance</string>
+    <string name="平移">平移</string>
+    <string name="旋转">旋转</string>
+    <string name="缩放">缩放</string>
+    <string name="渐变">渐变</string>
+    <string name="animator_object">动画</string>
+    <string name="together">一起来</string>
+</resources>

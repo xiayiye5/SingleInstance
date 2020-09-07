@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidCrop</string>
+    <string name="camera">相机</string>
+    <string name="pic">相册</string>
+</resources>

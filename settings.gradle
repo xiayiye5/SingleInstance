@@ -1,0 +1,4 @@
+include ':AndroidCrop'
+include ':mylibrary'
+include ':app'
+rootProject.name = "SingleInstance"

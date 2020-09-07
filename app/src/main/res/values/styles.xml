@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="slide_menu_view_menu_title">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#44663300</item>
+        <item name="android:drawablePadding">10dip</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">10dip</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="slide_menu_view_menu_tab" parent="slide_menu_view_menu_title">
+        <item name="android:background">@drawable/slidemenuview_tab_bg</item>
+    </style>
+</resources>
