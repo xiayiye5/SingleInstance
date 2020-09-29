@@ -6,6 +6,7 @@
     tools:context=".OtherActivity">
 
     <TextView
+        android:id="@+id/vtThird"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="三方页面"
